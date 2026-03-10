@@ -8832,3 +8832,34 @@ Type: :worker
 
 15:11:36.085 [info] Compiled petri in 12 ms
 15:11:36.085 [debug] sent notification server -> client textDocument/publishDiagnostics
+15:22:05.375 [debug] handled notification client -> server textDocument/didSave in 2ms
+15:22:05.427 [debug] sent request server -> client window/workDoneProgress/create
+15:22:05.428 [debug] Node port message: 
+15:22:05.426 [info] Building petri
+
+15:22:05.428 [debug] Node port message: 
+15:22:05.427 [debug] sent request server -> client window/workDoneProgress/create
+
+15:22:05.429 [debug] sent notification server -> client $/progress
+15:22:05.431 [debug] sent notification server -> client $/progress
+15:22:05.431 [debug] Node port message: 
+15:22:05.429 [debug] sent notification server -> client $/progress
+
+15:22:05.432 [debug] Node port message: 
+15:22:05.431 [debug] sent notification server -> client $/progress
+
+15:22:05.458 [debug] sent notification server -> client $/progress
+15:22:05.459 [debug] Node port message: 
+15:22:05.457 [info] Compile completed with status noop Produced 0 diagnostics []
+
+15:22:05.459 [info] Compiled petri in 32 ms
+15:22:05.459 [debug] sent notification server -> client textDocument/publishDiagnostics
+15:22:05.460 [debug] Node port message: 
+15:22:05.458 [info] Plugins found 0 results in 0.032 ms
+
+15:22:05.460 [debug] Node port message: 
+15:22:05.458 [debug] sent notification server -> client $/progress
+
+15:22:05.678 [debug] sent notification server -> client window/logMessage
+15:22:05.678 [info] Shutting down
+15:22:05.678 [debug] handled request client -> server shutdown in 6ms
